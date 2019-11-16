@@ -93,7 +93,7 @@ The final report includes each of the following:
 3. The Python script is located in the [HeroesOfPymoli](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) folder.
 4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
 
-##Output
+## Output
 
 
 ### Player Count
