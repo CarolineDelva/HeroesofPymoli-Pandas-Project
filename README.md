@@ -3,14 +3,9 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 #### -- Project Status: [Completed]
 
-### Project Description
+## Project Description
 
-## Option 1: Heroes of Pymoli
-
-
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+The purpose of this project is to analyze the data of fantasy game, Heroes of Pymoli created by a gaming company. As the lead analyst, I generated a report that breaks down the game's purchasing data into meaningful insights for players.
 
 Your final report should include each of the following:
 
