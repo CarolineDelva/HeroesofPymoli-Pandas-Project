@@ -96,70 +96,46 @@ The final report includes each of the following:
 ## Findings 
 
 
-## Output
-- Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
-
-- Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
 
 ### Player Count
 
 
 ![player count](HeroesOfPymoli/Pictures/NumberofPlayers.PNG)
 
-### Player Count
 
 ### Purchasing Analysis (Total)
 
-
-![Education](Images/education.jpg)
+![purchasing analysis](HeroesOfPymoli/Pictures/purchasinganalysis.PNG)
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+![gender demographics](HeroesOfPymoli/Pictures/genderanalysis.PNG)
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+![purchasing analysis (gender)](HeroesOfPymoli/Pictures/purchasinganalysisgender.PNG)
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Age Group
+![age demographics](HeroesOfPymoli/Pictures/agedemographics.PNG)
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
+![top spenders](HeroesOfPymoli/Pictures/topspender.PNG)
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+![most popular items](HeroesOfPymoli/Pictures/mostpopularitem.PNG)
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+![most profitable items](HeroesOfPymoli/Pictures/mostprofitableitem.PNG)
+
+
+## Conclusion
+- Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+
+- Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
 
 
 
