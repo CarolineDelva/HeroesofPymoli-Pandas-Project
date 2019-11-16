@@ -68,12 +68,6 @@ The final report includes each of the following:
   * Item Price
   * Total Purchase Value
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
