@@ -93,19 +93,25 @@ The final report includes each of the following:
 3. The Python script is located in the [HeroesOfPymoli](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) folder.
 4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
 
-## Output
+## Findings 
 
+
+## Output
+- Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+
+- Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
 
 ### Player Count
 
-* Total Number of Players
+
+![player count](HeroesOfPymoli/Pictures/NumberofPlayers.PNG)
+
+### Player Count
 
 ### Purchasing Analysis (Total)
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+
+![Education](Images/education.jpg)
 
 ### Gender Demographics
 
